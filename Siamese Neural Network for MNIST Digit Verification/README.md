@@ -129,6 +129,10 @@ plt.imshow(img_B)
 ## Image Comparison 📸
 
 Finally, let's compare the images using our trained Siamese Neural Network. We aim to predict if the two selected images are of the same class or not.
+Images belong to same class '7' below:
+
+![image](https://github.com/Aditya-NeuralNetNinja/Flagship-Projects/assets/108260519/d32d7b8c-05e5-4d27-903c-afe5d6966b78)
+
 
 ```python
 # Predict if img_A and img_B are from the same class (True if prediction > 0.5)
@@ -136,7 +140,7 @@ model.predict([img_A.reshape((1, 28, 28)),
                img_B.reshape((1, 28, 28))]).flatten()[0] > 0.5
 ```
 
-If the predicted value is greater than 0.5, the output is True, indicating that the model believes the images are of the same class. 🎉
+As the predicted value is greater than 0.5, the output is True, indicating that the model believes the images are of the same class. 🎉
 
 This wraps up the usage guide for this project. The Siamese Network is a powerful tool for image comparison tasks, as demonstrated with the MNIST dataset. Happy coding! 🚀
 
