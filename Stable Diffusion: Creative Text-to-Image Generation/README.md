@@ -75,16 +75,21 @@ plt.axis("off")
 
 Here are some example images generated from the text using the StableDiffusion model:
 
-1. ![zen](https://github.com/Aditya-NeuralNetNinja/Flagship-Projects/assets/108260519/09e86163-35eb-4ced-ac57-b6f0271ea3d4)
+1. **_Zen garden in bloom with a mountain range in the background_**
+
+   ![zen](https://github.com/Aditya-NeuralNetNinja/Flagship-Projects/assets/108260519/09e86163-35eb-4ced-ac57-b6f0271ea3d4)
    
-   _Zen garden in bloom with a mountain range in the background_
+   
+2. **_A bustling cityscape at sunset with skyscrapers dominating the skyline, the sun casting long shadows and the city lights just starting to twinkle. In the foreground, a park with a serene lake reflecting the glowing sky_**
+  
+   ![skyscrapers](https://github.com/Aditya-NeuralNetNinja/Flagship-Projects/assets/108260519/0033bb48-3230-45fe-8e8f-8dcdf6b5266c)
 
-2. ![skyscrapers](https://github.com/Aditya-NeuralNetNinja/Flagship-Projects/assets/108260519/0033bb48-3230-45fe-8e8f-8dcdf6b5266c)
+    
 
-   _A bustling cityscape at sunset with skyscrapers dominating the skyline, the sun casting long shadows and the city lights just starting to twinkle. In the foreground, a park with a serene lake reflecting the glowing sky_
+3. **_A red car flying in air with birds_**
 
-3. ![flying car](https://github.com/Aditya-NeuralNetNinja/Flagship-Projects/assets/108260519/fff58441-7962-48b9-a01d-28993e39de39)
+  ![flying car](https://github.com/Aditya-NeuralNetNinja/Flagship-Projects/assets/108260519/fff58441-7962-48b9-a01d-28993e39de39)
 
-  _A red car flying in air with birds_
+  
 
 Enjoy creating images with text! 🖼️🎉
