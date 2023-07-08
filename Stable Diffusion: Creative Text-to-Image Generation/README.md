@@ -8,7 +8,6 @@ possibilities of Stable Diffusion in enabling novel creative synthesis.
 ## Table of Contents 📑
 
 - [Pre-requisites](#pre-requisites)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Example Images](#example-images)
 
