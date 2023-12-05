@@ -1,16 +1,6 @@
-# Siamese Neural Network for MNIST Digit Verification 👥🔢
+# Siamese Neural Network for MNIST Digit Verification 🔢
 
 The goal of this project is to build a Siamese Neural Network that can verify whether two digits, represented as images from the MNIST dataset, are of the same class or not. The model is trained using the contrastive loss function and the efficacy of the model is evaluated using a subset of the MNIST test dataset.
-
-## Table of Contents 📚
-
-- [Project Setup](#project-setup)
-- [Model Building](#model-building)
-- [Data Preparation](#data-preparation)
-- [Model Compilation](#model-compilation)
-- [Model Training](#model-training)
-- [Model Evaluation](#model-evaluation)
-- [Image Comparison](#image-comparison)
 
 ## Project Setup 🚀
 
