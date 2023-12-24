@@ -1,7 +1,0 @@
-python-dotenv
-TensorFlow==2.15
-transformers
-openai
-huggingface_hub
-pillow
-streamlit
