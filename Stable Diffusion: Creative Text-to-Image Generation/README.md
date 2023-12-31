@@ -5,13 +5,7 @@ Through the utilization of KerasCV, a powerful toolset is employed to create vis
 By seamlessly merging natural language processing and computer vision, this project showcases the transformative 
 possibilities of Stable Diffusion in enabling novel creative synthesis. 
 
-## Table of Contents 📑
-
-- [Pre-requisites](#pre-requisites)
-- [Usage](#usage)
-- [Example Images](#example-images)
-
-## Pre-requisites 🧩
+## Dependencies 🧩
 
 - Python 3.6 or higher
 - TensorFlow 2.0 or higher
