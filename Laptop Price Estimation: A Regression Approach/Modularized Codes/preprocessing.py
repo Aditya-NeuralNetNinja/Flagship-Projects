@@ -360,3 +360,18 @@ Higher the RAM, more is the Price
 #Applying log transformation to make Price distribution normal
 
     sns.histplot(np.log(df['Price']),kde=True)
+
+#Separating input features from labels
+
+    X = df.drop(columns=['Price'])
+    y = np.log(df['Price'])
+
+    X
+
+    y
+
+#Squeezing y values between 0 or 1
+
+    y = y/10
+
+    y
