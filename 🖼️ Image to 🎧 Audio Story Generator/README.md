@@ -49,7 +49,4 @@ This project was created with love by @Aditya-Neural-Net-Ninja.
 It makes use of cutting-edge AI models for image analysis, natural language processing, and text-to-speech conversion. 
 Special thanks to Streamlit and Hugging Face for their incredible platforms.
 
-
-**Note:** Please ensure you have the required API keys and tokens for TOGETHER AI and Hugging Face to run this application successfully.
-
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
