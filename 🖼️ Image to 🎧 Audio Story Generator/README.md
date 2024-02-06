@@ -1,6 +1,6 @@
 # 🖼️ Image to 🎧 Audio Story Generator
 
-## 🌐 Webapp Link: https://huggingface.co/spaces/adi-123/Image-to-Audio_Story_Generator
+## 🌐 Webapp Link: [Image-to-Audio Story Generator](https://huggingface.co/spaces/adi-123/Image-to-Audio_Story_Generator)
 
 This project showcases an end-to-end pipeline that transforms an image into an audio story using various AI models and tools.
 
@@ -37,11 +37,6 @@ To use this application:
 6. Wait for the AI processing to generate the story and audio.
 7. Access the image caption, story, and audio outputs.
 
-## 📁 Code Structure
-
-- `app.py`: Contains the Streamlit web application code, integrating all functionalities.
-- `README.md`: Documentation explaining the project, usage instructions, and dependencies.
-- `requirements.txt`: Lists all necessary libraries.
 
 ## 🙌 Credits
 
