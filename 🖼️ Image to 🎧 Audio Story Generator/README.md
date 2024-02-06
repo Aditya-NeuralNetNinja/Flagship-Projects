@@ -34,8 +34,9 @@ To use this application:
    - `HUGGINGFACEHUB_API_TOKEN`: Hugging Face API token.
 4. Run the Streamlit app with `streamlit run app.py`.
 5. Upload an image file (supported formats: jpg, jpeg, png).
-6. Wait for the AI processing to generate the story and audio.
-7. Access the image caption, story, and audio outputs.
+6. Adjust configuration parameters (top-k, top-p, temperature) for story generation (optional). 
+7. Wait for the AI processing to generate the textual story and audio story.
+8. Access the image caption, story, and audio outputs.
 
 
 ## 🙌 Credits
